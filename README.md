@@ -1,2 +1,2 @@
 # WeatherPy
-API Homework
+API Project
